@@ -25,6 +25,8 @@ Apasionado por crear soluciones móviles y web funcionales, seguras y escalables
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
 ### 🗃️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,18 +54,18 @@ Apasionado por crear soluciones móviles y web funcionales, seguras y escalables
 
 ### **Desarrollador Full Stack Jr.** @ A&Z Consultores S.C.
 `Oct 2024 - Agosto`  
-• Desarrollo de aplicación móvil "Diego's House"  
-• Implementación de autenticación y carrito de compras
-• Plataforma web administrativa
-• Servicios de la nube de Google Cloud
-• Implementacion de API RESTful
+• Desarrollo de aplicación móvil "Diego's House" con:  
+  - Plataforma web administrativa integrada  
+  - Servicios en la nube de Google Cloud  
+  - Implementación de API RESTful  
+• Implementación de autenticación y carrito de compras  
 • Arquitectura MVVM  
 
 ### **Desarrollador Android** @ TECNM - Gobierno Municipal de Cadereyta
 `Feb 2024 - Ago 2024`  
 • App "Barbacoa y Pulque Cadereyta"  
 • Geolocalización y autenticación de usuarios  
-• Plataforma web administrativa  
+• Plataforma web administrativa con servicios en la nube  
 
 ---
 
@@ -86,6 +88,7 @@ TECNM Campus Querétaro | `2019 - 2025`
 📜 **Certificaciones**  
 • CCNAv7: Enterprise Networking  
 • NDG Linux Essentials  
+• Google Cloud Fundamentals  
 
 ---
 
