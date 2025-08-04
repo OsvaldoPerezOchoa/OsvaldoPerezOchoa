@@ -10,8 +10,8 @@ Apasionado por crear soluciones móviles y web funcionales, seguras y escalables
 📧 perosvaldo31@gmail.com  
 📞 (44) 2576 1890  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](tu-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/osvaldopeochoa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([tu-github](https://github.com/OsvaldoPerezOchoa))
 
 ---
 
