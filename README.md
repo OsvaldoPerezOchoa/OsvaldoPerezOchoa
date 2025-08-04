@@ -4,7 +4,7 @@
 
 **Ingeniero en Sistemas Computacionales** | **Desarrollador Full Stack**
 
-Apasionado por crear soluciones móviles y web funcionales, seguras y escalables. Experiencia trabajando con tecnologías modernas y metodologías ágiles. Actualmente profundizando en **React** para construir interfaces más dinámicas. 
+Apasionado por crear soluciones móviles y web funcionales, seguras y escalables. Experiencia trabajando con tecnologías modernas y metodologías ágiles. Actualmente ampliando mis conocimientos en **React** y arquitecturas de software.
 
 📍 Santiago de Querétaro, México  
 📧 perosvaldo31@gmail.com  
@@ -16,26 +16,27 @@ Apasionado por crear soluciones móviles y web funcionales, seguras y escalables
 ---
 
 ## 🚀 Sobre mí
-- 💻 +2 años desarrollando aplicaciones móviles y web
-- 📱 Especializado en Android (Java/Kotlin) y React
-- 🧠 Autodidacta constante (actualmente mastering React)
-- 🏋️‍♂️ Amante del gym y los deportes (fútbol, natación)
-- 🎮 Geek de los videojuegos en mi tiempo libre
+- 💻 +2 años de experiencia en desarrollo Full Stack
+- 📱 Especializado en Android (Java) y tecnologías web (React, Node.js)
+- 🧠 Actualmente aprendiendo: React Avanzado y Arquitectura Limpia
+- 🏋️‍♂️ Amante del fitness y los deportes (gym 5x semana)
+- 🎮 Fanático de los videojuegos y la tecnología
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tecnologías
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,29 +48,61 @@ Apasionado por crear soluciones móviles y web funcionales, seguras y escalables
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 💼 Experiencia Destacada
-
-### **Diego's House** @ A&Z Consultores
-`App móvil + Panel web administrativo`
-- ✅ Sistema completo de e-commerce (carrito, checkout, tracking)
-- 🔐 Autenticación con Firebase Auth y roles de usuario
-- 📊 Dashboard analítico con gráficos en tiempo real
-- 🏗 Arquitectura MVVM + Clean Architecture
-
-### **Barbacoa y Pulque Cadereyta**
-`App de turismo local`
-- 📍 Geolocalización de negocios tradicionales
-- 🗓 Sistema de gestión de eventos culturales
-- ☁ Sync offline/online con Firestore
-- 🖥 CMS web para administradores
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
-## 🌟 Proyectos Personales
-```python
-# Próximamente...
-while learning:
-    build_projects()
-    share_on_github()
+## 💼 Experiencia
+
+### **Desarrollador Full Stack Jr.** @ A&Z Consultores
+`Oct 2024 - Presente`
+- Desarrollo de app "Diego's House" con:
+  - Sistema de autenticación con Firebase
+  - Carrito de compras con cálculo automático
+  - Panel administrativo en tiempo real
+- Arquitectura MVVM para mejor escalabilidad
+
+**Tecnologías:** Android, React, Node.js, Firebase, APIs REST
+
+### **Desarrollador Android** @ TECNM
+`Feb 2024 - Ago 2024`
+- App "Barbacoa y Pulque Cadereyta":
+  - Geolocalización de negocios
+  - Gestión de eventos culturales
+  - Plataforma web para administradores
+
+**Tecnologías:** Android Studio, React, Firebase, Google Maps API
+
+---
+
+## 🎓 Educación
+**Ingeniería en Sistemas Computacionales**  
+Tecnológico Nacional de México, Campus Querétaro  
+`2019 - 2025`
+
+---
+
+## 🌟 Proyectos
+
+### [Diego's House](https://github.com/OsvaldoPerezOchoa/DiegosHouse)
+Plataforma de e-commerce con:
+- Autenticación segura
+- Dashboard analítico
+- Integración con APIs de pago
+
+### [Barbacoa App](https://github.com/OsvaldoPerezOchoa/BarbacoaPulqueCadereyta)
+App turística con:
+- Mapa interactivo
+- Calendario de eventos
+- Modo offline
+
+---
+
+## 📊 Estadísticas
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoPerezOchoa&layout=compact&theme=dracula" />
+
+⭐️ De [Osvaldo Pérez](https://github.com/OsvaldoPerezOchoa)
