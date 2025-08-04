@@ -107,6 +107,6 @@ App para promoción de negocios locales con:
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoPerezOchoa&layout=compact&theme=dracula" />
 
-⭐️ De [Osvaldo Pérez](https://github.com/tuusuario)
+⭐️ De [Osvaldo Pérez](https://github.com/OsvaldoPerezOchoa)
