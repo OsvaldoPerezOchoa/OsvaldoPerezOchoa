@@ -7,7 +7,7 @@
 Apasionado por crear soluciones móviles y web funcionales, seguras y escalables. Experiencia trabajando con tecnologías modernas, bases de datos SQL y NoSQL, y metodologías ágiles. Actualmente aprendiendo **React** para reforzar mis habilidades en desarrollo frontend moderno.
 
 📍 Santiago de Querétaro, México  
-📧 perosvaldo31@gmail.com  
+📧 peroosvaldo31@gmail.com  
 📞 (44) 2576 1890  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaldopeochoa)  
